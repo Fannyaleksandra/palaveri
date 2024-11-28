@@ -1,0 +1,28 @@
+{
+    "palaveri": {
+      "aihe": "Projektin aloitus kokous",
+      "osallistujien_lukumäärä": 6,
+      "osallistujat": [
+        {"nimi": "Anna Virtanen", "rooli": "Projektipäällikkö"},
+        {"nimi": "Mikko Mäkelä", "rooli": "Ohjelmistokehittäjä"},
+        {"nimi": "Liisa Korhonen", "rooli": "Markkinointikoordinaattori"},
+        {"nimi": "Juha Salminen", "rooli": "UX-suunnittelija"},
+        {"nimi": "Kaisa Laakso", "rooli": "Asiakaspalvelupäällikkö"},
+        {"nimi": "Antti Nieminen", "rooli": "Johtaja"}
+      ],
+      "paikka": {
+        "nimi": "Neuvotteluhuone A",
+        "kerros": 3
+      },
+      "aika": {
+        "alkamisaika": "Klo 13.00-14.30",
+        "kesto_tunnit": 1.5
+      },
+      "tavoitteet": [
+        "Kartoittaa projektien tavoitteet",
+        "Sopia vastuuhenkilöt ja aikataulut",
+        "Tunnistaa mahdolliset riskit ja resurssitarpeet"
+      ]
+    }
+  }
+  
